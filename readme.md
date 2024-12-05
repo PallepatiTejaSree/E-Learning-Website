@@ -14,10 +14,6 @@ Secret Coder is an e-learning website designed to provide a user-friendly and re
 
 - Responsive design using Bootstrap 5.
 - Structured course catalog with detailed descriptions.
-- Interactive lessons.
-- User can register and login.
-- User authentication for personalized learning experiences.
-- Instructor application form.
 - User can also contact us.
 
 ## Getting Started
@@ -44,5 +40,3 @@ Before you begin, ensure you have the following prerequisites:
 - CSS
 - Bootstrap 5
 - JavaScript
-
-📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
